@@ -1,6 +1,6 @@
-Author: Elizabeth Johnson
-LinkedIn: https://www.linkedin.com/in/elizabeth-johnson8888/
-Email: johnsonel8888@gmail.com
+Author: Elizabeth Johnson\
+LinkedIn: https://www.linkedin.com/in/elizabeth-johnson8888/\
+Email: johnsonel8888@gmail.com\
 
 # VA-part-time-pay
 Figure out how much I get paid in a two week period after taxes. I was tired of trying to estimate how much I was going to pay in taxes each paycheck so I made myself a caluculator that can be accessed through the command line.
